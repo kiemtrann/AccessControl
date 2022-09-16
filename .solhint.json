@@ -10,7 +10,9 @@
     "prettier/prettier": [
       "error",
       {
-        "endOfLine": "auto"
+        "singleQuote": true,
+        "trailingComma": "all",
+        "printWidth": 120
       }
     ],
     "reason-string": ["warn", { "maxLength": 64 }]
