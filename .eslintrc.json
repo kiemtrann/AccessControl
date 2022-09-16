@@ -27,5 +27,6 @@
         "varsIgnorePattern": "_"
       }
     ]
-  }
+  },
+  "ignorePatterns": ["node_modules"]
 }
